@@ -1,0 +1,12 @@
+com.capstone.arnavplz.launcher-arcore_client-0 /Users/devynean/.gradle/caches/transforms-3/3c9bb9af26f7f94e4de25252e9a957f8/transformed/arcore_client/res
+com.capstone.arnavplz.launcher-com.mapbox.android.unity-debug-1 /Users/devynean/.gradle/caches/transforms-3/554a0ef4734677fdbf1a3e9c88cde780/transformed/com.mapbox.android.unity-debug/res
+com.capstone.arnavplz.launcher-appcompat-v7-25.1.0-2 /Users/devynean/.gradle/caches/transforms-3/f6ddac27402c6eb71f99a0fa75bf39b5/transformed/appcompat-v7-25.1.0/res
+com.capstone.arnavplz.launcher-pngs-3 /Users/devynean/Export-unity/arnav/launcher/build/generated/res/pngs/debug
+com.capstone.arnavplz.launcher-resValues-4 /Users/devynean/Export-unity/arnav/launcher/build/generated/res/resValues/debug
+com.capstone.arnavplz.launcher-rs-5 /Users/devynean/Export-unity/arnav/launcher/build/generated/res/rs/debug
+com.capstone.arnavplz.launcher-mergeDebugResources-6 /Users/devynean/Export-unity/arnav/launcher/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.capstone.arnavplz.launcher-mergeDebugResources-7 /Users/devynean/Export-unity/arnav/launcher/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.capstone.arnavplz.launcher-merged_res-8 /Users/devynean/Export-unity/arnav/launcher/build/intermediates/merged_res/debug
+com.capstone.arnavplz.launcher-debug-9 /Users/devynean/Export-unity/arnav/launcher/src/debug/res
+com.capstone.arnavplz.launcher-main-10 /Users/devynean/Export-unity/arnav/launcher/src/main/res
+com.capstone.arnavplz.launcher-packaged_res-11 /Users/devynean/Export-unity/arnav/unityLibrary/build/intermediates/packaged_res/debug
